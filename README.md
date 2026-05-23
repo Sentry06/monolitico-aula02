@@ -25,3 +25,10 @@ python -m venv env
 ## Criar um arquivo .gitignore
 
 -> nao versionar banco, variaveis sensiveis, dados
+
+## Comandos basico do Django
+
+pip install django
+
+## ver versão instalada:
+
