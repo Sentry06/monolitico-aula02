@@ -1,21 +1,35 @@
-## App minhas tarefas
+## App MinhasTarefas
 
 Monolitico
 -> Django
 
 Backend
--> Node
+-> Node 
 
-Frotend 
+Frontend
 -> React
 
-## Python
 
-## verificar versão do Python
+
+
+
+## python
+
+# verificar versao do python
 python --version
 
-## criar o ambiente virtual
+
+
+# Criar o ambiente virtual
 python -m venv env
 
-## criar o arquivo .gitignore
--> não versionar bancos, variáveis sensíveis e dados
+# Ativar o ambiente
+
+
+
+-> cada projeto um ambiente
+
+
+## Criar um arquivo .gitignore
+
+-> nao versionar banco, variaveis sensiveis, dados
