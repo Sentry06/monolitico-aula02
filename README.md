@@ -9,23 +9,15 @@ Backend
 Frontend
 -> React
 
-
-
-
-
 ## python
 
 # verificar versao do python
 python --version
 
-
-
 # Criar o ambiente virtual
 python -m venv env
 
 # Ativar o ambiente
-
-
 
 -> cada projeto um ambiente
 
